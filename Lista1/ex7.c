@@ -13,6 +13,7 @@ int max_sum_kadane(int *seq, int n) {
   }
   return max_sum;
 }
+// a complexidade é de O(n^2)
 
 int main() {
   int seq[] = {5, 2, -2, -7, 3, 14, 10, -3, 9, -6, 4, 1};

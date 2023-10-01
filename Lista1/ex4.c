@@ -10,6 +10,7 @@ int contaSequencia(int vet[], int n){
   }
   return cont;
 }
+// a complexidade desse algoritmo é O(n)
 
 int main() {
   int a[] = {5,2,2,3,4,4,4,4,4,1,1};

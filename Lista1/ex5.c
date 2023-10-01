@@ -20,7 +20,7 @@ int comprimento_segmento_crescente(int *sequencia, int n) {
 
   return comprimento_maximo;
 }
-
+// a complexidade do algoritmo é O(n)
 
 int main() {
   int sequencia[] = {5, 10, 3, 2, 4, 7, 9, 8, 5};
